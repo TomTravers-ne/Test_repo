@@ -1,4 +1,4 @@
 # Test_repo
 Repository to test git is configured with Rstudio
 
-Test Test Test
+Text for a test commit and push
